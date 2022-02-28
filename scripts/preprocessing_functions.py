@@ -22,7 +22,7 @@ def basic_processing(feature_df, pseudocount=1e-4):
     pandas dataframe
         a dataframe that has no more NAs
     """
-    
+    original_index = feature_df.index
     categoric_df = feature_df.select_dtypes(include=['object']).copy()
     numerical_df = feature_df.select_dtypes(include=['float64', "int64"]).copy()
 
@@ -36,7 +36,9 @@ def basic_processing(feature_df, pseudocount=1e-4):
     ### Add a small pseudocount to the resulting values to avoid trouble with log transformation
     numerical_noNA = numerical_noNA + pseudocount
 
-    # Join the two dframes
+    # Join the two dframes. We assume row order is maintained
+    categoric_df.index = original_index
+    numerical_noNA.index = original_index
     feature_clean = numerical_noNA.join(categoric_df)
 
     return feature_clean
