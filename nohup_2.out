@@ -1,0 +1,109 @@
+nohup: ignoring input
+Reading
+Cleaining up
+Churn experiment
+Fold 0
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.96s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:04<00:04,  2.11s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:05<00:01,  1.70s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.89s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 1it [00:07,  7.88s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.07s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.48s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.11s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.67s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.95s/it]
+Data-Model combinations: 2it [00:15,  7.84s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.25s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.12s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.24s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it]
+Data-Model combinations: 3it [00:20,  6.48s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.22s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.00it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.18it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.27it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.17it/s]
+Data-Model combinations: 4it [00:23,  5.27s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.30s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.58s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.16s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.70s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.01s/it]
+Data-Model combinations: 5it [00:32,  6.27s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.09s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it]
+Data-Model combinations: 6it [00:36,  5.74s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.11s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.13it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.28it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.52it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.35it/s]
+Data-Model combinations: 7it [00:39,  4.83s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.98s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.43s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.65s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.92s/it]
+Data-Model combinations: 8it [00:47,  5.74s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.17s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.08s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 9it [00:51,  5.38s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.09it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.39it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.83it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.49it/s]
+Data-Model combinations: 10it [00:54,  4.55s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.01s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.45s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.65s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.92s/it]
+Data-Model combinations: 11it [01:02,  5.51s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.11s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.11s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it]
+Data-Model combinations: 12it [01:07,  5.26s/it]Data-Model combinations: 12it [01:07,  5.59s/it]
+Fold 1
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:05,  1.99s/it][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  50%|█████     | 2/4 [00:03<00:03,  1.70s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.13s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.06s/it]
+Data-Model combinations: 1it [00:08,  8.24s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.96s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:04<00:04,  2.41s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.64s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.91s/it]
+Data-Model combinations: 2it [00:15,  7.88s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.12s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.39s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.38s/it][AHyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.33s/it]
+Data-Model combinations: 3it [00:21,  6.72s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.01it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.18it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.27it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.17it/s]
+Data-Model combinations: 4it [00:24,  5.42s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A

@@ -27,7 +27,7 @@ def basic_processing(feature_df, pseudocount=1e-4):
     numerical_df = feature_df.select_dtypes(include=['float64', "int64"]).copy()
 
     # Replace categoric NAs with 'missing'
-    categoric_df.fillna("missing", inplace=True)
+    categoric_df.fillna(b"missing", inplace=True)
 
     # Replace numeric NAs with the mean of their column
     SI = SimpleImputer(missing_values=np.nan, strategy="mean")

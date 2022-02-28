@@ -1,0 +1,1526 @@
+Reading
+Cleaining up
+Churn experiment
+Fold 0
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.79s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:04<00:04,  2.05s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:05<00:01,  1.67s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.87s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.93s/it]
+Data-Model combinations: 1it [00:07,  7.72s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.01s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.46s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.66s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.94s/it]
+Data-Model combinations: 2it [00:15,  7.74s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.28s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.13s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.24s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it]
+Data-Model combinations: 3it [00:20,  6.42s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.26s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.02s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.17it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.28it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.16it/s]
+Data-Model combinations: 4it [00:23,  5.25s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.00s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.44s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.65s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.92s/it]
+Data-Model combinations: 5it [00:31,  6.13s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.23s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.10s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.20s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it]
+Data-Model combinations: 6it [00:36,  5.64s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.11it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.25it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.41it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.28it/s]
+Data-Model combinations: 7it [00:39,  4.82s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.98s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.43s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.64s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.91s/it]
+Data-Model combinations: 8it [00:46,  5.72s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.02s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it]
+Data-Model combinations: 9it [00:51,  5.39s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.11s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.13it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.43it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.88it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.54it/s]
+Data-Model combinations: 10it [00:54,  4.53s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.01s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.43s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.64s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.92s/it]
+Data-Model combinations: 11it [01:01,  5.49s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.17s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.10s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.12s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.22s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it]
+Data-Model combinations: 12it [01:06,  5.27s/it]Data-Model combinations: 12it [01:06,  5.55s/it]
+Fold 1
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:05,  1.99s/it][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  50%|█████     | 2/4 [00:03<00:03,  1.70s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.13s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.06s/it]
+Data-Model combinations: 1it [00:08,  8.23s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.87s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:04<00:04,  2.38s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.03s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.63s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.88s/it]
+Data-Model combinations: 2it [00:15,  7.82s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.11s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.38s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.37s/it][AHyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.33s/it]
+Data-Model combinations: 3it [00:21,  6.67s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.24s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.04s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.08it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.21it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.11it/s]
+Data-Model combinations: 4it [00:24,  5.47s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.87s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:04<00:04,  2.40s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.64s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.90s/it]
+Data-Model combinations: 5it [00:32,  6.24s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.08s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it]
+Data-Model combinations: 6it [00:36,  5.71s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.11it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.26it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.50it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.33it/s]
+Data-Model combinations: 7it [00:39,  4.83s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.12s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.55s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.69s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.98s/it]
+Data-Model combinations: 8it [00:47,  5.81s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.04s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it]
+Data-Model combinations: 9it [00:52,  5.43s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.10it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.41it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.86it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.52it/s]
+Data-Model combinations: 10it [00:55,  4.57s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.54s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.12s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 11it [01:03,  5.58s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.17s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.09s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.20s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it]
+Data-Model combinations: 12it [01:07,  5.31s/it]Data-Model combinations: 12it [01:07,  5.64s/it]
+Fold 2
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:04,  1.52s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.25s/it][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.11s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.50s/it][AHyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.40s/it]
+Data-Model combinations: 1it [00:05,  5.61s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.01s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.45s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.64s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.92s/it]
+Data-Model combinations: 2it [00:13,  6.83s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.06s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.11s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.22s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it]
+Data-Model combinations: 3it [00:18,  5.87s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.22s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.15it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.25it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.15it/s]
+Data-Model combinations: 4it [00:21,  4.93s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:08,  2.98s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.43s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.64s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.91s/it]
+Data-Model combinations: 5it [00:29,  5.90s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.05s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.20s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]
+Data-Model combinations: 6it [00:33,  5.48s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.12it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.09it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.16it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.12it/s]
+Data-Model combinations: 7it [00:37,  4.86s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.12s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.54s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.13s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 8it [00:45,  5.83s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it]
+Data-Model combinations: 9it [00:49,  5.43s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.11s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.05it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.37it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.79it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.47it/s]
+Data-Model combinations: 10it [00:52,  4.59s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.08s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.54s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.13s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 11it [01:00,  5.60s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.17s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.09s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.11s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it]
+Data-Model combinations: 12it [01:05,  5.32s/it]Data-Model combinations: 12it [01:05,  5.43s/it]
+Fold 3
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.31s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:06<00:06,  3.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:08<00:02,  2.85s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:10<00:00,  2.59s/it][AHyperband iterations: 100%|██████████| 4/4 [00:10<00:00,  2.74s/it]
+Data-Model combinations: 1it [00:10, 10.98s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:10,  3.36s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.58s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.15s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.71s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.02s/it]
+Data-Model combinations: 2it [00:19,  9.28s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.17s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.04s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 3it [00:23,  7.15s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.25s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.16it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.27it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.16it/s]
+Data-Model combinations: 4it [00:27,  5.69s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:10,  3.35s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.59s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.16s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.70s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.01s/it]
+Data-Model combinations: 5it [00:35,  6.54s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.04s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it]
+Data-Model combinations: 6it [00:39,  5.85s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:04,  1.58s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.36s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.16s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.03it/s][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.09s/it]
+Data-Model combinations: 7it [00:44,  5.37s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.30s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.64s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.18s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.71s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.02s/it]
+Data-Model combinations: 8it [00:52,  6.24s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.00it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it]
+Data-Model combinations: 9it [00:56,  5.70s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.06it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.37it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.81it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.48it/s]
+Data-Model combinations: 10it [00:59,  4.78s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.33s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.63s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.18s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.71s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.02s/it]
+Data-Model combinations: 11it [01:07,  5.80s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.02s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]
+Data-Model combinations: 12it [01:12,  5.44s/it]Data-Model combinations: 12it [01:12,  6.01s/it]
+Fold 4
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:04,  1.49s/it][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.21s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.22s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.60s/it][AHyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.48s/it]
+Data-Model combinations: 1it [00:05,  5.93s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.19s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.59s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.15s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.69s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+Data-Model combinations: 2it [00:13,  7.14s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.01it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it]
+Data-Model combinations: 3it [00:18,  5.95s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.23s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.14it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.25it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.15it/s]
+Data-Model combinations: 4it [00:21,  4.98s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.27s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.62s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.17s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.74s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.04s/it]
+Data-Model combinations: 5it [00:30,  6.12s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.19s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.08s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.20s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]
+Data-Model combinations: 6it [00:34,  5.61s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.30s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.13it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.39it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.21it/s]
+Data-Model combinations: 7it [00:38,  4.87s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.03s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.45s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.64s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.92s/it]
+Data-Model combinations: 8it [00:45,  5.76s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.08s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]
+Data-Model combinations: 9it [00:50,  5.41s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.11it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.41it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.83it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.51it/s]
+Data-Model combinations: 10it [00:53,  4.56s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.24s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.55s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.98s/it]
+Data-Model combinations: 11it [01:00,  5.60s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.12s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.01it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.03s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.11s/it]
+Data-Model combinations: 12it [01:05,  5.25s/it]Data-Model combinations: 12it [01:05,  5.45s/it]
+Fold 5
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:05,  1.69s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.37s/it][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.19s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:06<00:00,  1.59s/it][AHyperband iterations: 100%|██████████| 4/4 [00:06<00:00,  1.50s/it]
+Data-Model combinations: 1it [00:06,  6.02s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.20s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.56s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.15s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.70s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+Data-Model combinations: 2it [00:13,  7.17s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.12s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.11s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.22s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it]
+Data-Model combinations: 3it [00:18,  6.06s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.22s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.00it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.17it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.27it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.16it/s]
+Data-Model combinations: 4it [00:22,  5.03s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.06s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.52s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.12s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.96s/it]
+Data-Model combinations: 5it [00:30,  6.05s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.15s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.12s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.22s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it]
+Data-Model combinations: 6it [00:34,  5.61s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:04,  1.50s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.28s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.08s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.13it/s][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.01s/it]
+Data-Model combinations: 7it [00:38,  5.10s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.57s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.98s/it]
+Data-Model combinations: 8it [00:46,  6.00s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.18s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 9it [00:51,  5.56s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.05it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.36it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.81it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.48it/s]
+Data-Model combinations: 10it [00:54,  4.69s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.07s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.52s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.13s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.96s/it]
+Data-Model combinations: 11it [01:01,  5.66s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.08s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 12it [01:06,  5.34s/it]Data-Model combinations: 12it [01:06,  5.55s/it]
+Fold 6
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:06,  2.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:03<00:03,  1.82s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:04<00:01,  1.56s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.77s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.76s/it]
+Data-Model combinations: 1it [00:07,  7.06s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.56s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.69s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.98s/it]
+Data-Model combinations: 2it [00:14,  7.57s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.00s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.04s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.12s/it]
+Data-Model combinations: 3it [00:19,  6.17s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.25s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.17it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.27it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.16it/s]
+Data-Model combinations: 4it [00:22,  5.10s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.57s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.98s/it]
+Data-Model combinations: 5it [00:30,  6.12s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it]
+Data-Model combinations: 6it [00:35,  5.60s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:05,  1.80s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:03<00:03,  1.51s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:04<00:01,  1.31s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.14s/it][AHyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.27s/it]
+Data-Model combinations: 7it [00:40,  5.43s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.16s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.59s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.15s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.69s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+Data-Model combinations: 8it [00:48,  6.23s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.05s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 9it [00:53,  5.72s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.15it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.47it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.92it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.57it/s]
+Data-Model combinations: 10it [00:55,  4.74s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.28s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.61s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.16s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.70s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.01s/it]
+Data-Model combinations: 11it [01:03,  5.75s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.11s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.22s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it]
+Data-Model combinations: 12it [01:08,  5.45s/it]Data-Model combinations: 12it [01:08,  5.70s/it]
+Fold 7
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:04,  1.60s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.30s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.49s/it][AHyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.41s/it]
+Data-Model combinations: 1it [00:05,  5.64s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.09s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.52s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.11s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.67s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.96s/it]
+Data-Model combinations: 2it [00:13,  6.93s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.13s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.11s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.21s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it]
+Data-Model combinations: 3it [00:18,  5.92s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.00s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.18it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.29it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.18it/s]
+Data-Model combinations: 4it [00:21,  4.93s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.32s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.64s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.18s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  1.73s/it][AHyperband iterations: 100%|██████████| 4/4 [00:08<00:00,  2.04s/it]
+Data-Model combinations: 5it [00:29,  6.09s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.04s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it]
+Data-Model combinations: 6it [00:34,  5.57s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:05,  1.67s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:03<00:03,  1.53s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:04<00:01,  1.33s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.15s/it][AHyperband iterations: 100%|██████████| 4/4 [00:05<00:00,  1.27s/it]
+Data-Model combinations: 7it [00:39,  5.41s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.03s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.52s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.12s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.67s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.96s/it]
+Data-Model combinations: 8it [00:47,  6.18s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.04s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it]
+Data-Model combinations: 9it [00:51,  5.67s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.21s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.06it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.37it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.80it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.47it/s]
+Data-Model combinations: 10it [00:54,  4.76s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.11s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.53s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.12s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 11it [01:02,  5.71s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.05s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 12it [01:06,  5.38s/it]Data-Model combinations: 12it [01:06,  5.58s/it]
+Fold 8
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:10,  3.36s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:06<00:06,  3.12s/it][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  75%|███████▌  | 3/4 [00:07<00:02,  2.40s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:10<00:00,  2.31s/it][AHyperband iterations: 100%|██████████| 4/4 [00:10<00:00,  2.51s/it]
+Data-Model combinations: 1it [00:10, 10.03s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.06s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.49s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.66s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.94s/it]
+Data-Model combinations: 2it [00:17,  8.70s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.11s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.03s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.20s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]
+Data-Model combinations: 3it [00:22,  6.84s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.20s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.01it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.18it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.28it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.18it/s]
+Data-Model combinations: 4it [00:25,  5.49s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.06s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:04,  2.49s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.10s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.66s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.94s/it]
+Data-Model combinations: 5it [00:33,  6.31s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.07s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it]
+Data-Model combinations: 6it [00:38,  5.72s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:04,  1.59s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.39s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.23s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.05s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]
+Data-Model combinations: 7it [00:42,  5.37s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.11s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.55s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 8it [00:50,  6.18s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.13s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.05s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.13s/it]
+Data-Model combinations: 9it [00:55,  5.66s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.14it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.46it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.92it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.57it/s]
+Data-Model combinations: 10it [00:57,  4.70s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.18s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.58s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.15s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+Data-Model combinations: 11it [01:05,  5.70s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.05s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.08s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 12it [01:10,  5.36s/it]Data-Model combinations: 12it [01:10,  5.86s/it]
+Fold 9
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:02<00:06,  2.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:03<00:03,  1.84s/it][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  75%|███████▌  | 3/4 [00:05<00:01,  1.62s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.84s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.83s/it]
+Data-Model combinations: 1it [00:07,  7.31s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.07s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.53s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.14s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.69s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 2it [00:15,  7.66s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.19s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.07s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.09s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.20s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.16s/it]
+Data-Model combinations: 3it [00:19,  6.29s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.20s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:01,  1.02it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.20it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.24it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.16it/s]
+Data-Model combinations: 4it [00:23,  5.17s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.55s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.13s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 5it [00:31,  6.15s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.16s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.08s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.19s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.15s/it]
+Data-Model combinations: 6it [00:35,  5.62s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:04,  1.36s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.14s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:00,  1.05it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.31it/s][AHyperband iterations: 100%|██████████| 4/4 [00:03<00:00,  1.13it/s]
+Data-Model combinations: 7it [00:39,  4.94s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.09s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.55s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.13s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.68s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.97s/it]
+Data-Model combinations: 8it [00:47,  5.88s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.14s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.01s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.18s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it]
+Data-Model combinations: 9it [00:51,  5.47s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.10s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:01<00:01,  1.13it/s][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:02<00:00,  1.44it/s][A
+Hyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.91it/s][AHyperband iterations: 100%|██████████| 4/4 [00:02<00:00,  1.56it/s]
+Data-Model combinations: 10it [00:54,  4.57s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:03<00:09,  3.15s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:05<00:05,  2.57s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:06<00:02,  2.15s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.69s/it][AHyperband iterations: 100%|██████████| 4/4 [00:07<00:00,  1.99s/it]
+Data-Model combinations: 11it [01:02,  5.61s/it]
+Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
+Hyperband iterations:  25%|██▌       | 1/4 [00:01<00:03,  1.20s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [00:02<00:02,  1.04s/it][A
+Hyperband iterations:  75%|███████▌  | 3/4 [00:03<00:01,  1.06s/it][A
+Hyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.17s/it][AHyperband iterations: 100%|██████████| 4/4 [00:04<00:00,  1.14s/it]
+Data-Model combinations: 12it [01:06,  5.29s/it]Data-Model combinations: 12it [01:06,  5.57s/it]
+Cupid Experiment
+Fold 0
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+/home/roberto_olayo/miniconda3/envs/automl/lib/python3.6/site-packages/sklearn/linear_model/_sag.py:329: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  "the coef_ did not converge", ConvergenceWarning)
+
+Hyperband iterations:  33%|███▎      | 1/3 [00:07<00:15,  7.96s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:15<00:07,  7.51s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:21<00:00,  7.16s/it][AHyperband iterations: 100%|██████████| 3/3 [00:21<00:00,  7.30s/it]
+Data-Model combinations: 1it [00:21, 21.90s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:05<00:10,  5.11s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:11<00:05,  5.82s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.85s/it][AHyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.77s/it]
+Data-Model combinations: 2it [00:39, 19.21s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:03<02:06, 63.30s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:14<01:07, 67.87s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:56<00:00, 83.37s/it][AHyperband iterations: 100%|██████████| 3/3 [03:56<00:00, 78.73s/it]
+Data-Model combinations: 3it [04:35, 118.28s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:05<00:11,  5.94s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:12<00:06,  6.31s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:19<00:00,  6.46s/it][AHyperband iterations: 100%|██████████| 3/3 [00:19<00:00,  6.38s/it]
+Data-Model combinations: 4it [04:54, 79.15s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:04<00:09,  4.61s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:10<00:05,  5.21s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:15<00:00,  5.23s/it][AHyperband iterations: 100%|██████████| 3/3 [00:15<00:00,  5.16s/it]
+Data-Model combinations: 5it [05:10, 56.20s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:04<02:08, 64.11s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:15<01:08, 68.24s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:45<00:00, 78.30s/it][AHyperband iterations: 100%|██████████| 3/3 [03:45<00:00, 75.17s/it]
+Data-Model combinations: 6it [08:55, 113.77s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.85s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.43s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.55s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.46s/it]
+Data-Model combinations: 7it [09:08, 80.95s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:06,  3.35s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.55s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.96s/it][AHyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.73s/it]
+Data-Model combinations: 8it [09:23, 59.70s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:57<01:54, 57.04s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:01<01:01, 61.66s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:36<00:00, 76.83s/it][AHyperband iterations: 100%|██████████| 3/3 [03:36<00:00, 72.27s/it]
+Data-Model combinations: 9it [13:00, 108.82s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.81s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.61s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.79s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.66s/it]
+Data-Model combinations: 10it [13:13, 79.54s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:06,  3.32s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.48s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.74s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.55s/it]
+Data-Model combinations: 11it [13:27, 59.38s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:57<01:54, 57.49s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:02<01:02, 62.10s/it][A
