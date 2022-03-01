@@ -4,9 +4,11 @@ import pandas as pd
 from scripts.model_dictionaries import model_dictionary
 from sklearn.experimental import enable_halving_search_cv  # noqa
 from sklearn.model_selection import HalvingRandomSearchCV
+from sklearn.utils.validation import check_is_fitted
+from hpbandster_sklearn import HpBandSterSearchCV
 
 
-def hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random_state, cv_folds, n_jobs, n_estimators):
+def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random_state, cv_folds, n_jobs, n_estimators):
     
     min_initial_budget = np.ceil(np.exp(-((num_tracks * np.log(eta)) - np.log(X_train.shape[0])))).astype(int)
 
@@ -70,12 +72,33 @@ def hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random_st
     best_estimator = hyper_best_dict[best_model]
 
     return archive_df, best_estimator
+
+def hpband_search(X_train, y_train, num_tracks, eta, loss_function, random_state, cv_folds, n_jobs, strategy, model):
+
+    model_obj = model_dictionary[model]["model"]
+    model_param = model_dictionary[model]["param_config"]
+
+    search = HpBandSterSearchCV(model_obj, 
+                            model_param,
+                            random_state=random_state, 
+                            n_jobs=n_jobs, 
+                            n_iter=num_tracks, 
+                            verbose=0,
+                            resource_name = "n_samples",
+                            cv=cv_folds,
+                            eta=eta,
+                            scoring=loss_function,
+                            refit=True, 
+                            optimizer=strategy).fit(X_train, y_train)
+
+    return pd.DataFrame(search.cv_results_), search
+
+
+def optimise_parameters(X_train, y_train, num_tracks, eta, loss_function, model, random_state, cv_folds, n_jobs, n_estimators, opt_strategy):
+
+    if opt_strategy == "my_hyperband":
+        archive, best_model = my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random_state, cv_folds, n_jobs, n_estimators)
+    else:
+        archive, best_model = hpband_search(X_train, y_train, num_tracks, eta, loss_function, random_state, cv_folds, n_jobs, opt_strategy, model)
     
-    
-
-
-
-
-
-
-
+    return archive, best_model

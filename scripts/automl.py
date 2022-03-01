@@ -1,7 +1,7 @@
 import itertools
 import pandas as pd
 from tqdm import tqdm
-from scripts.hyperband import hyperband
+from scripts.hyperband import optimise_parameters
 from scripts.evaluation import evaluate_models
 from scripts.model_dictionaries import model_dictionary
 from scripts.preprocessing_functions import split_dataset, data_preprocessing, basic_processing
@@ -9,7 +9,7 @@ from scripts.preprocessing_dictionaries import category_strategy_dict, numerical
 from sklearn.pipeline import Pipeline
 
 
-def automl(X_complete, y_complete, test_fraction=0.2, num_iterations=5, fidelity_parameter=2, loss_function="neg_log_loss", cv_folds=10, random_state=42, categorical_strategies = ["OHE", "BDE", "SUM"], numerical_strategies=["SSE", "MMS", "LOG"], classification_algorithms=["EL", "RF", "DT"], n_jobs=1, n_estimators="full"):
+def automl(X_complete, y_complete, test_fraction=0.2, num_iterations=5, fidelity_parameter=2, loss_function="neg_log_loss", cv_folds=10, random_state=42, categorical_strategies = ["OHE", "BDE", "SUM"], numerical_strategies=["SSE", "MMS", "LOG"], classification_algorithms=["EL", "RF", "DT"], n_jobs=1, n_estimators="full", optimizer_strategy="hyperband"):
        
        # Separate into test and training sets
        separated_datasets = split_dataset(X_complete, y_complete, test_fraction, random_state)
@@ -28,7 +28,7 @@ def automl(X_complete, y_complete, test_fraction=0.2, num_iterations=5, fidelity
        for prep_strat, model in tqdm(itertools.product(encoded_data.keys(), classification_algorithms), desc="Data-Model combinations", position=0):
               combination_id = f"{prep_strat}-{model}"
               #print(combination_id)
-              archive_df, best_obj = hyperband(encoded_data[prep_strat], separated_datasets["y_train"], num_iterations, fidelity_parameter, loss_function, model, random_state, cv_folds, n_jobs, n_estimators)
+              archive_df, best_obj = optimise_parameters(encoded_data[prep_strat], separated_datasets["y_train"], num_iterations, fidelity_parameter, loss_function, model, random_state, cv_folds, n_jobs, n_estimators, optimizer_strategy)
 
               # Add to the Archive
               archive_df["combination"] = combination_id
