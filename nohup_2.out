@@ -1537,3 +1537,4 @@ Fold 0
 Data-Model combinations: 11it [6:12:04, 1634.05s/it]
 Hyperband iterations:   0%|          | 0/4 [00:00<?, ?it/s][A
 Hyperband iterations:  25%|██▌       | 1/4 [28:44<1:26:14, 1724.81s/it][A
+Hyperband iterations:  50%|█████     | 2/4 [1:00:11<1:00:40, 1820.20s/it][A

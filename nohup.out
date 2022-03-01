@@ -1867,3 +1867,222 @@ Fold 6
 Data-Model combinations: 5it [08:57, 97.45s/it] 
 Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
 Hyperband iterations:  33%|███▎      | 1/3 [01:47<03:34, 107.13s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [03:44<01:53, 113.02s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [06:10<00:00, 128.25s/it][AHyperband iterations: 100%|██████████| 3/3 [06:10<00:00, 123.55s/it]
+Data-Model combinations: 6it [15:08, 190.34s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:07<00:15,  7.73s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:14<00:07,  7.38s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:21<00:00,  7.11s/it][AHyperband iterations: 100%|██████████| 3/3 [00:21<00:00,  7.22s/it]
+Data-Model combinations: 7it [15:29, 135.20s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:05<00:11,  5.66s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:12<00:06,  6.64s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:18<00:00,  6.30s/it][AHyperband iterations: 100%|██████████| 3/3 [00:18<00:00,  6.29s/it]
+Data-Model combinations: 8it [15:48, 98.17s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:32<03:05, 92.91s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [03:20<01:41, 101.26s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [05:38<00:00, 118.03s/it][AHyperband iterations: 100%|██████████| 3/3 [05:38<00:00, 112.67s/it]
+Data-Model combinations: 9it [21:26, 173.15s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:07<00:15,  7.72s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:14<00:07,  7.40s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:21<00:00,  7.15s/it][AHyperband iterations: 100%|██████████| 3/3 [00:21<00:00,  7.25s/it]
+Data-Model combinations: 10it [21:48, 126.41s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:05<00:11,  5.84s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:12<00:06,  6.45s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:18<00:00,  6.17s/it][AHyperband iterations: 100%|██████████| 3/3 [00:18<00:00,  6.19s/it]
+Data-Model combinations: 11it [22:07, 93.40s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:36<03:12, 96.40s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [03:22<01:42, 102.34s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [05:40<00:00, 118.58s/it][AHyperband iterations: 100%|██████████| 3/3 [05:40<00:00, 113.60s/it]
+Data-Model combinations: 12it [27:47, 168.67s/it]Data-Model combinations: 12it [27:47, 139.00s/it]
+Fold 7
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:12<00:24, 12.25s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:19<00:09,  9.44s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:26<00:00,  8.27s/it][AHyperband iterations: 100%|██████████| 3/3 [00:26<00:00,  8.86s/it]
+Data-Model combinations: 1it [00:26, 26.60s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:05<00:10,  5.21s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:11<00:05,  5.55s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:16<00:00,  5.69s/it][AHyperband iterations: 100%|██████████| 3/3 [00:16<00:00,  5.62s/it]
+Data-Model combinations: 2it [00:43, 20.88s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:02<02:04, 62.49s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:15<01:08, 68.59s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:45<00:00, 78.57s/it][AHyperband iterations: 100%|██████████| 3/3 [03:45<00:00, 75.27s/it]
+Data-Model combinations: 3it [04:29, 114.45s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:06<00:12,  6.10s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:13<00:06,  6.58s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:19<00:00,  6.57s/it][AHyperband iterations: 100%|██████████| 3/3 [00:19<00:00,  6.53s/it]
+Data-Model combinations: 4it [04:48, 77.00s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:04<00:09,  4.52s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:09<00:04,  4.93s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.86s/it][AHyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.84s/it]
+Data-Model combinations: 5it [05:03, 54.47s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:14<02:28, 74.37s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:25<01:12, 72.32s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [04:03<00:00, 84.19s/it][AHyperband iterations: 100%|██████████| 3/3 [04:03<00:00, 81.19s/it]
+Data-Model combinations: 6it [09:06, 118.77s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.88s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:09<00:04,  4.74s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  5.10s/it][AHyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.92s/it]
+Data-Model combinations: 7it [09:21, 84.76s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.72s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:09<00:04,  4.99s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  5.02s/it][AHyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.89s/it]
+Data-Model combinations: 8it [09:36, 62.45s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:57<01:55, 57.56s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:04<01:03, 63.33s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:28<00:00, 72.48s/it][AHyperband iterations: 100%|██████████| 3/3 [03:28<00:00, 69.43s/it]
+Data-Model combinations: 9it [13:04, 108.04s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:04<00:08,  4.02s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:09<00:04,  4.70s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.98s/it][AHyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.84s/it]
+Data-Model combinations: 10it [13:19, 79.17s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.72s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.51s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.75s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.60s/it]
+Data-Model combinations: 11it [13:33, 59.17s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:57<01:55, 57.52s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:02<01:02, 62.09s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:26<00:00, 72.13s/it][AHyperband iterations: 100%|██████████| 3/3 [03:26<00:00, 68.96s/it]
+Data-Model combinations: 12it [16:59, 104.11s/it]Data-Model combinations: 12it [16:59, 84.99s/it] 
+Fold 8
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:12<00:25, 12.67s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:20<00:10, 10.08s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:28<00:00,  8.99s/it][AHyperband iterations: 100%|██████████| 3/3 [00:28<00:00,  9.55s/it]
+Data-Model combinations: 1it [00:28, 28.64s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:05<00:10,  5.20s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:11<00:05,  5.77s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.73s/it][AHyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.68s/it]
+Data-Model combinations: 2it [00:45, 21.83s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:02<02:05, 62.51s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:12<01:07, 67.14s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:40<00:00, 76.70s/it][AHyperband iterations: 100%|██████████| 3/3 [03:40<00:00, 73.66s/it]
+Data-Model combinations: 3it [04:26, 112.77s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:06<00:12,  6.48s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:13<00:06,  6.88s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:20<00:00,  6.89s/it][AHyperband iterations: 100%|██████████| 3/3 [00:20<00:00,  6.84s/it]
+Data-Model combinations: 4it [04:47, 76.36s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:04<00:08,  4.44s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:10<00:05,  5.60s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:16<00:00,  5.77s/it][AHyperband iterations: 100%|██████████| 3/3 [00:16<00:00,  5.61s/it]
+Data-Model combinations: 5it [05:04, 54.89s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:02<02:05, 62.72s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:13<01:07, 67.40s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:57<00:00, 84.17s/it][AHyperband iterations: 100%|██████████| 3/3 [03:57<00:00, 79.17s/it]
+Data-Model combinations: 6it [09:01, 116.99s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.59s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.40s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.63s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.49s/it]
+Data-Model combinations: 7it [09:15, 83.14s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.60s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.63s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.98s/it][AHyperband iterations: 100%|██████████| 3/3 [00:14<00:00,  4.78s/it]
+Data-Model combinations: 8it [09:29, 61.24s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:57<01:55, 57.74s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:03<01:02, 62.68s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:31<00:00, 74.09s/it][AHyperband iterations: 100%|██████████| 3/3 [03:31<00:00, 70.52s/it]
+Data-Model combinations: 9it [13:00, 108.23s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.63s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.42s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.62s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.48s/it]
+Data-Model combinations: 10it [13:14, 78.97s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:06,  3.35s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.61s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.85s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.66s/it]
+Data-Model combinations: 11it [13:28, 59.08s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:57<01:55, 57.99s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:04<01:03, 63.23s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:28<00:00, 72.66s/it][AHyperband iterations: 100%|██████████| 3/3 [03:28<00:00, 69.59s/it]
+Data-Model combinations: 12it [16:57, 104.62s/it]Data-Model combinations: 12it [16:57, 84.76s/it] 
+Fold 9
+Data-Model combinations: 0it [00:00, ?it/s]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:11<00:22, 11.28s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:18<00:09,  9.03s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:25<00:00,  8.07s/it][AHyperband iterations: 100%|██████████| 3/3 [00:25<00:00,  8.55s/it]
+Data-Model combinations: 1it [00:25, 25.66s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:05<00:10,  5.27s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:11<00:05,  5.84s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.97s/it][AHyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.88s/it]
+Data-Model combinations: 2it [00:43, 20.95s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:03<02:07, 63.96s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:15<01:08, 68.37s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:46<00:00, 78.94s/it][AHyperband iterations: 100%|██████████| 3/3 [03:46<00:00, 75.64s/it]
+Data-Model combinations: 3it [04:30, 115.01s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:06<00:12,  6.03s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:12<00:06,  6.47s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:19<00:00,  6.64s/it][AHyperband iterations: 100%|██████████| 3/3 [00:19<00:00,  6.55s/it]
+Data-Model combinations: 4it [04:49, 77.36s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:04<00:08,  4.16s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:11<00:05,  5.96s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.85s/it][AHyperband iterations: 100%|██████████| 3/3 [00:17<00:00,  5.70s/it]
+Data-Model combinations: 5it [05:07, 55.63s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [01:03<02:06, 63.36s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:14<01:08, 68.09s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:46<00:00, 78.82s/it][AHyperband iterations: 100%|██████████| 3/3 [03:46<00:00, 75.45s/it]
+Data-Model combinations: 6it [08:53, 113.68s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.58s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.32s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.57s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]
+Data-Model combinations: 7it [09:06, 80.86s/it] 
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:06,  3.30s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.22s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.64s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]
+Data-Model combinations: 8it [09:19, 59.35s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:58<01:56, 58.32s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:04<01:02, 62.88s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:53<00:00, 83.79s/it][AHyperband iterations: 100%|██████████| 3/3 [03:53<00:00, 77.69s/it]
+Data-Model combinations: 9it [13:13, 113.66s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:07,  3.63s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.55s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.64s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.53s/it]
+Data-Model combinations: 10it [13:26, 82.76s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:03<00:06,  3.47s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [00:08<00:04,  4.49s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.77s/it][AHyperband iterations: 100%|██████████| 3/3 [00:13<00:00,  4.60s/it]
+Data-Model combinations: 11it [13:40, 61.65s/it]
+Hyperband iterations:   0%|          | 0/3 [00:00<?, ?it/s][A
+Hyperband iterations:  33%|███▎      | 1/3 [00:57<01:55, 57.72s/it][A
+Hyperband iterations:  67%|██████▋   | 2/3 [02:03<01:02, 62.39s/it][A
+Hyperband iterations: 100%|██████████| 3/3 [03:29<00:00, 73.07s/it][AHyperband iterations: 100%|██████████| 3/3 [03:29<00:00, 69.72s/it]
+Data-Model combinations: 12it [17:09, 106.53s/it]Data-Model combinations: 12it [17:09, 85.80s/it] 
