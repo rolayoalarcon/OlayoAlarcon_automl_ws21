@@ -39,7 +39,8 @@ def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random
                                                 min_resources=min_budget,
                                                 cv=cv_folds,
                                                 scoring=loss_function,
-                                                n_jobs=n_jobs)
+                                                n_jobs=n_jobs,
+                                                refit=True)
         else:
             HalvingSearch = HalvingRandomSearchCV(estimator=model_obj, 
                                                 param_distributions=param_dist, 
@@ -49,7 +50,8 @@ def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random
                                                 cv=cv_folds,
                                                 scoring=loss_function,
                                                 n_jobs=n_jobs,
-                                                n_candidates=n_estimators)
+                                                n_candidates=n_estimators,
+                                                refit=True)
 
 
         HalvingSearch.fit(X_train, y_train)
@@ -57,19 +59,28 @@ def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random
         # Add the iteration to the archive
         result_df = pd.DataFrame(HalvingSearch.cv_results_)
         result_df["hyperband_iter"] = i
+        result_df["HS_champion"] = "not"
+        winning_params = HalvingSearch.cv_results_["params"][HalvingSearch.best_index_]
+        result_df.loc[result_df["params"].astype(str) == str(winning_params), "HS_champion"] = "HS_champion"
 
         archive_df = pd.concat([archive_df, result_df])
 
         # Add the estimator to the dictionary
-        hyper_best_dict[f"Hyp{i}"] = HalvingSearch
-        performance_df = pd.DataFrame({"Hyp_iteration": [f"Hyp{i}"],
+        hyper_best_dict[i] = HalvingSearch
+        performance_df = pd.DataFrame({"Hyp_iteration": [i],
                                       "performance":[HalvingSearch.best_score_]})
         comparison_df = pd.concat([comparison_df, performance_df])
     
     # Once hyperband is finished select the best model
-    best_model = comparison_df.loc[comparison_df["performance"]== comparison_df["performance"].max(),
+    best_model = comparison_df.loc[comparison_df["performance"] == comparison_df["performance"].max(),
                                    "Hyp_iteration"].tolist()[0]
     best_estimator = hyper_best_dict[best_model]
+
+    archive_df["Hyp_champion"] = "not"
+    archive_df.loc[(archive_df["HS_champion"]=="HS_champion") & 
+                   (archive_df["hyperband_iter"] == best_model),
+    "Hyp_champion"] = "Hyp_champion"
+
 
     return archive_df, best_estimator
 

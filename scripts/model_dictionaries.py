@@ -1,5 +1,4 @@
 import numpy as np
-from random import uniform
 from scipy.stats import randint, uniform
 import ConfigSpace as CS
 import ConfigSpace.hyperparameters as CSH
@@ -49,7 +48,7 @@ dt.add_hyperparameter(max_depth)
 
 model_dictionary = {"EL":{"model": LogisticRegression(solver="saga", penalty="elasticnet"),
                           "param_search":{"l1_ratio": uniform(0, 1),
-                                          "max_iter": np.random.randint(100, 2000),
+                                          "max_iter": randint(100, 2000),
                                           "C": uniform(0, 1)},
                           "param_config": el},
 

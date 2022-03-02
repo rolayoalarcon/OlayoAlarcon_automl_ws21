@@ -4,6 +4,26 @@ import pandas as pd
 from sklearn.impute import SimpleImputer
 from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.decomposition import PCA
+from scripts.preprocessing_dictionaries import category_strategy_dict, numerical_strategy_dict
+
+def data_reduction(X_original, encoded_data, encoder_objs, dim_reduction, n_dims):
+
+    updated_data = encoded_data.copy()
+    updated_objs = encoder_objs.copy()
+
+    if "FAMD" in dim_reduction:
+        _, ct_obj = data_preprocessing(X_original, ["OHE_SPR"], ["SSE"], category_strategy_dict, numerical_strategy_dict)
+        complete_pipeline = Pipeline([("col_preprocess", ct_obj["OHE_SPR-SSE"]),
+                                     ("PCA", PCA(n_components=n_dims))])
+
+        famd_data = complete_pipeline.fit_transform(X_original)
+        updated_data["FAMD"] = famd_data
+        updated_objs["FAMD"] = complete_pipeline
+    
+    return updated_data, updated_objs
+
 
 def basic_processing(feature_df, pseudocount=1e-4):
     """
@@ -27,7 +47,7 @@ def basic_processing(feature_df, pseudocount=1e-4):
     numerical_df = feature_df.select_dtypes(include=['float64', "int64"]).copy()
 
     # Replace categoric NAs with 'missing'
-    categoric_df.fillna(b"missing", inplace=True)
+    categoric_df.fillna("missing", inplace=True)
 
     # Replace numeric NAs with the mean of their column
     SI = SimpleImputer(missing_values=np.nan, strategy="mean")
