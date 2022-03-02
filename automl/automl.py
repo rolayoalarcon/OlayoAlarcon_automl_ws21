@@ -1,11 +1,11 @@
 import itertools
 import pandas as pd
 from tqdm import tqdm
-from scripts.hyperband import optimise_parameters
-from scripts.evaluation import evaluate_models
-from scripts.model_dictionaries import model_dictionary
-from scripts.preprocessing_functions import split_dataset, data_preprocessing, basic_processing, data_reduction
-from scripts.preprocessing_dictionaries import category_strategy_dict, numerical_strategy_dict
+from .hyperband import optimise_parameters
+from .evaluation import evaluate_models
+from .model_dictionaries import model_dictionary
+from .preprocessing_functions import split_dataset, data_preprocessing, basic_processing, data_reduction
+from .preprocessing_dictionaries import category_strategy_dict, numerical_strategy_dict
 from sklearn.pipeline import Pipeline
 
 

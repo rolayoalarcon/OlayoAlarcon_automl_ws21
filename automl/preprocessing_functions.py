@@ -6,7 +6,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.decomposition import PCA
-from scripts.preprocessing_dictionaries import category_strategy_dict, numerical_strategy_dict
+from .preprocessing_dictionaries import category_strategy_dict, numerical_strategy_dict
 
 def data_reduction(X_original, encoded_data, encoder_objs, dim_reduction, n_dims):
     """

@@ -1,7 +1,7 @@
 from tqdm import tqdm
 import numpy as np
 import pandas as pd
-from scripts.model_dictionaries import model_dictionary
+from .model_dictionaries import model_dictionary
 from sklearn.experimental import enable_halving_search_cv  # noqa
 from sklearn.model_selection import HalvingRandomSearchCV
 from sklearn.utils.validation import check_is_fitted

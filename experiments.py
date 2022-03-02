@@ -14,7 +14,7 @@ import seaborn as sns
 from scipy.io import arff
 import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeClassifier
-from scripts.experiment_functions import kfold_experiments
+from automl import kfold_experiments
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 
 

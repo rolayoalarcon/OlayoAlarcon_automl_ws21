@@ -1,9 +1,9 @@
 import pandas as pd
-from scripts.automl import automl
+from .automl import automl
 from sklearn.metrics import SCORERS
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import StratifiedKFold
-from scripts.preprocessing_functions import basic_processing
+from .preprocessing_functions import basic_processing
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, VotingClassifier
 
 
