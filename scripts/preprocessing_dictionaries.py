@@ -4,9 +4,38 @@ from sklearn.feature_selection import VarianceThreshold
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, FunctionTransformer, StandardScaler, MinMaxScaler
 
+"""
+This file contains strategies for processing numerical and categorical data.
+The most important part are the two dictionaries "category_strategy_dict" and 
+"numerical_strategy_dict". In this way, we can acess transformers with nothing 
+more than a string. It also makes it easy to add new strategies in a very easy way.
+Maybe something to improve would be to accept a list of transformers, or require
+a pipeline.
+"""
+
+
 def ohe_famd(x):
+    """
+    Performs normalization of binary variables. 
+    Each column is divided by the square root of their probability and then centered.
+
+    Parameters
+    ----------
+    x: numpy array
+        the encoded categorical variables
+       
+    Returns
+    -------
+    numpy array
+        the processed catergorical variables
+    """
+    # Get square root probabilities. Add a small pseudocount
     x_proba = np.sqrt((x.sum(axis=0) / x.shape[0]) + 1e-4)
+
+    # Divide by probability
     x_div = x / x_proba
+
+    # Center columns
     x_center = x_div - x_div.mean(axis=0)
     
     return x_center

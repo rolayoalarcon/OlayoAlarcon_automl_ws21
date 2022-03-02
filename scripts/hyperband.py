@@ -9,18 +9,64 @@ from hpbandster_sklearn import HpBandSterSearchCV
 
 
 def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random_state, cv_folds, n_jobs, n_estimators):
+    """
+    My implementation of hyperband based on HalvingRandomSearch
+
+    Parameters
+    ----------
+    X_train: pandas dataframe 
+        contains the features used for prediction for all samples.
+       
+    y_train: np array 
+        must be 1D. Contains the labels to predict for each sample
+       
+    num_tracks: int
+        number of HalvingRandomSearch iterations to run
+
+    eta: int
+        the halving parameter, which determines the proportion of samples that are added for each subsequent iteration.
+       
+   loss_function: str 
+        the score function to MAXIMIZE. Must be one of the options from sklearn.metrics.SCORERS
+       
+    model: str
+        the model to be used in the search
     
+    random_state: int
+        seed for reproducibility
+    
+    cv_folds: int
+        number of stratefied cross validations to carry out in training
+    
+    n_jobs: int
+        number of resources for parallelization
+
+    n_estimators: int, "full"
+        number of initial candidates at each halfsearch space. If "full" then the number of inital candidates is determined automatically.
+       
+    Returns
+    -------
+        dataframe, estimator
+            1. contains information about the halving search iterations.
+            2. best model found by the hyperband
+    """
+    # Estimate the inital number of samples given the hyperband iterations and the total number of samples
     min_initial_budget = np.ceil(np.exp(-((num_tracks * np.log(eta)) - np.log(X_train.shape[0])))).astype(int)
 
     hyper_best_dict = {}
     archive_df = pd.DataFrame()
     comparison_df = pd.DataFrame()
 
+    # Iterate over hyperband iterations
     for i in tqdm(range(num_tracks), desc="Hyperband iterations", position=1):
+        
+        # Minimal budget given the iteration
         min_budget = min_initial_budget * (eta**i)
 
+        # Get the inital object
         model_obj = model_dictionary[model]["model"]
 
+        # Set some parameters for seed and ncores
         if model in ["LR", "EL"]:
             model_obj.set_params(n_jobs=n_jobs)
         elif model in ["GB", "DT", "HGB"]:
@@ -28,10 +74,11 @@ def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random
         elif model in ["RF", "SGD"]:
             model_obj.set_params(n_jobs=n_jobs, random_state=random_state)
 
+        # Gather the parameter generator
         param_dist = model_dictionary[model]["param_search"]
 
+        # Prepare Halving search
         if n_estimators == "full":
-
             HalvingSearch = HalvingRandomSearchCV(estimator=model_obj, 
                                                 param_distributions=param_dist, 
                                                 factor=eta, 
@@ -53,7 +100,7 @@ def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random
                                                 n_candidates=n_estimators,
                                                 refit=True)
 
-
+        # Dot the search
         HalvingSearch.fit(X_train, y_train)
         
         # Add the iteration to the archive
@@ -85,10 +132,52 @@ def my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random
     return archive_df, best_estimator
 
 def hpband_search(X_train, y_train, num_tracks, eta, loss_function, random_state, cv_folds, n_jobs, strategy, model):
+    """
+    The hyperband implementation of hpbandster-sklearn
 
+    Parameters
+    ----------
+    X_train: pandas dataframe 
+        contains the features used for prediction for all samples.
+       
+    y_train: np array 
+        must be 1D. Contains the labels to predict for each sample
+       
+    num_tracks: int
+        number of HalvingRandomSearch iterations to run
+
+    eta: int
+        the halving parameter, which determines the proportion of samples that are added for each subsequent iteration.
+       
+   loss_function: str 
+        the score function to MAXIMIZE. Must be one of the options from sklearn.metrics.SCORERS
+    
+    random_state: int
+        seed for reproducibility
+    
+    cv_folds: int
+        number of stratefied cross validations to carry out in training
+    
+    n_jobs: int
+        number of resources for parallelization
+    
+    strategy: str,
+        wither "hyperband" or "bohb"
+
+    model: str
+        the model to be used in the search
+       
+    Returns
+    -------
+        dataframe, estimator
+            1. contains information about the halving search iterations.
+            2. best model found by the hyperband
+    """
+    # Prepare model
     model_obj = model_dictionary[model]["model"]
     model_param = model_dictionary[model]["param_config"]
 
+    # Carry out search
     search = HpBandSterSearchCV(model_obj, 
                             model_param,
                             random_state=random_state, 
@@ -106,7 +195,52 @@ def hpband_search(X_train, y_train, num_tracks, eta, loss_function, random_state
 
 
 def optimise_parameters(X_train, y_train, num_tracks, eta, loss_function, model, random_state, cv_folds, n_jobs, n_estimators, opt_strategy):
+    """
+    The hyperband implementation of hpbandster-sklearn
 
+    Parameters
+    ----------
+    X_train: pandas dataframe 
+        contains the features used for prediction for all samples.
+       
+    y_train: np array 
+        must be 1D. Contains the labels to predict for each sample
+       
+    num_tracks: int
+        number of HalvingRandomSearch iterations to run
+
+    eta: int
+        the halving parameter, which determines the proportion of samples that are added for each subsequent iteration.
+       
+   loss_function: str 
+        the score function to MAXIMIZE. Must be one of the options from sklearn.metrics.SCORERS
+    
+    model: str
+        the model to be used in the search
+
+    random_state: int
+        seed for reproducibility
+    
+    cv_folds: int
+        number of stratefied cross validations to carry out in training
+    
+    n_jobs: int
+        number of resources for parallelization
+    
+    n_estimators: int, "full"
+        number of initial candidates at each halfsearch space. If "full" then the number of inital candidates is determined automatically.
+    
+    opt_strategy: str,
+        wither "hyperband", "bohb" or "my_hyperband
+       
+    Returns
+    -------
+        dataframe, estimator
+            1. contains information about the halving search iterations.
+            2. best model found by the optimizer
+    """
+    
+    # Decide which function to use
     if opt_strategy == "my_hyperband":
         archive, best_model = my_hyperband(X_train, y_train, num_tracks, eta, loss_function, model, random_state, cv_folds, n_jobs, n_estimators)
     else:

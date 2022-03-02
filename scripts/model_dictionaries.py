@@ -8,8 +8,15 @@ from sklearn.linear_model import LogisticRegression, SGDClassifier
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, HistGradientBoostingClassifier
 
+"""
+This file contains classifer model parameter configurations as input into 
+hpbandster or HalvingRandomSearchCV. The most important part of this is the 
+dictionary "model_dictionary". In this way, we can acess paramter generators 
+for each classifier with nothing more than a string. It also makes it easy to 
+add new models in a very easy way.
+"""
 
-# Config space
+# Config space parameters to build for hpbandster
 l1_ratio = CSH.UniformFloatHyperparameter('l1_ratio', lower=0, upper=1, log=False)
 max_iter = CSH.UniformIntegerHyperparameter("max_iter", lower=10, upper=1000)
 C = CSH.UniformFloatHyperparameter("C", lower=0, upper=1)
@@ -23,6 +30,7 @@ subsample = CSH.UniformFloatHyperparameter("subsample", lower=0.1, upper=0.5)
 splitter = CSH.CategoricalHyperparameter("splitter", choices=["best", "random"])
 
 # Specific configs
+## Random Forrest
 rf = CS.ConfigurationSpace(42)
 rf.add_hyperparameter(n_estimators)
 rf.add_hyperparameter(criterion_rf)
@@ -30,17 +38,20 @@ rf.add_hyperparameter(max_depth)
 rf.add_hyperparameter(max_samples)
 rf.add_hyperparameter(bstrap)
 
+## Elastic Net
 el = CS.ConfigurationSpace(42)
 el.add_hyperparameter(C)
 el.add_hyperparameter(max_iter)
 el.add_hyperparameter(l1_ratio)
 
+## Gradient Boosting
 gb = CS.ConfigurationSpace(42)
 gb.add_hyperparameter(learning_rate)
 gb.add_hyperparameter(n_estimators)
 gb.add_hyperparameter(subsample)
 gb.add_hyperparameter(max_depth)
 
+## Decision Tree
 dt = CS.ConfigurationSpace(42)
 dt.add_hyperparameter(criterion_rf)
 dt.add_hyperparameter(splitter)
@@ -96,6 +107,3 @@ model_dictionary = {"EL":{"model": LogisticRegression(solver="saga", penalty="el
                            "max_iter": randint(10, 200),
                            "l2_regularization": uniform(0,1),
                            "max_depth": randint(1, 10)}}}
-
-
-
