@@ -13,7 +13,7 @@ In this main directory you will find the following.
 
 While the project is coded in python, I definitely use a more functional programming approach. Therefore, the entrypoint into the pipeline is the a function called *automl()*. The pipeline is based on the Hyperband algorithm, and relies on the [HalvingRandomSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.HalvingRandomSearchCV.html#sklearn.model_selection.HalvingRandomSearchCV) function from scikit-learn. I later added a wrapper to HpBandster via the [hpbandster-sklearn](https://hpbandster-sklearn.readthedocs.io/en/latest/) package.   
   
-Documentation for the input parameters of my *automl()* function can be found in [scripts/automl](scripts/automl). However, for convenience, I will paste the documentation below. Hope this works!  
+Documentation for the input parameters of my *automl()* function can be found in [automl/automl](automl/automl). However, for convenience, I will paste the documentation below. Hope this works!  
   
 Input parameters for the AutoML pipeline!
 
